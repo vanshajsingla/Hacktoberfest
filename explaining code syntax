@@ -1,0 +1,5 @@
+#include<iostream>
+//including liborary
+using namespace std;
+//it is used for scope purpose
+
